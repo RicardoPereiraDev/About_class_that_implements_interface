@@ -7,6 +7,5 @@
 ![image](https://github.com/RicardoPereiraDev/About_inheritance_and_polymorphism/assets/155699805/06f3b9b4-7de2-4b4d-afc5-ef865976b094)
 
 
-# About_inheritance_and_polymorphism
 
 
